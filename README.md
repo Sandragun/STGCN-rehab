@@ -79,6 +79,10 @@ If you find our research helpful, please consider cite this work:
   pages={410-419},
   doi={10.1109/TNSRE.2022.3150392}}
   ```
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=fokhruli/STGCN-rehab&type=Date)](https://star-history.com/#fokhruli/STGCN-rehab&Date)
+
 ## Acknowledgment
 We thank the authors and contributors of original [GCN implementation](https://github.com/tkipf/gcn).
 
